@@ -6,6 +6,9 @@ export const metadata: Metadata = {
   title: "Nuthi Pranav",
   description:
     "A modern, animated portfolio showcasing the skills and projects of a full-stack developer.",
+  icons: {
+    icon: "data:,",
+  },
 };
 
 export default function RootLayout({
