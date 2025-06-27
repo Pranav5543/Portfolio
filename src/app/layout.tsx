@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description:
     "A modern, animated portfolio showcasing the skills and projects of a full-stack developer.",
   icons: {
-    icon: "https://www.dropbox.com/scl/fi/o256247vsl09g4nhxqg0v/N-favicon.png?rlkey=b7h9gtp8dr9e8p56cjdfey98x&st=7s28f096&raw=1",
+    icon: "https://www.dropbox.com/scl/fi/o256247vsl09g4nhxqg0v/N-favicon.png?rlkey=b7h9gtp8dr9e8p56cjdfey98x&raw=1",
   },
 };
 
